@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Zhejiang University — Agricultural Mechanization Engineering (expected 2029)
+* M.S., Shanghai University of Engineering Science — Vehicle Engineering, 2025
+* B.S., Shanghai University of Engineering Science — Automotive Service Engineering, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2024 – Jun 2024: Autonomous Driving Planning and Control Algorithm Engineer (Internship)
+  * Horizon Robotics — Saturn V Group
+  * Duties included:
+    * Assisted in developing game-theoretic decision-making algorithms
+    * Analyzed real-vehicle data to identify performance issues and edge cases
+    * Performed on-vehicle algorithm debugging, tuning, and validation
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in ROS2 package development (C++)
+* Strong command of MATLAB and Python; proficient with Linux, git, and LaTeX
+* Experienced in optimization-based algorithms for trajectory planning
+  * Multi-objective optimization for mobile robot global path planning
+  * Spatio-temporal trajectory planning for autonomous vehicles
+  * Turnaround trajectory planning for autonomous agricultural vehicles
 
 Publications
 ======
@@ -53,12 +45,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Journals:
+  * (2024-now): [Industrial Robot (IR)](https://www.emeraldgrouppublishing.com/journal/ir)
