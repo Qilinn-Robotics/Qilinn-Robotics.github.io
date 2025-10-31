@@ -14,15 +14,11 @@ redirect_from:
 **Affiliation/Lab:** Zhejiang University (Intelligent BioIndustrial Equipment Innovation Team - IBE).
 **Supervisors:** Prof. [Yibin Ying](https://person.zju.edu.cn/0089059) & Dr. [Chen Peng](https://caseypen.github.io/) (Co-advisor)
 
----
-
 ## Introduction
 
 I am a researcher specializing in **robot navigation** and **Artificial Intelligence (AI)** technologies. My work aims to enhance the scheduling, decision-making, and autonomous navigation capabilities of robots. My recent focus has been on single-robot systems, with plans to transition towards research on decision-making, scheduling, and motion planning for multi-robot swarms.
 
 I am currently pursuing a Ph.D. in Engineering at Zhejiang University, dedicated to developing general-purpose robotics technology and applying it, particularly, to agricultural scenarios.
-
----
 
 ## Research Interests
 
@@ -32,16 +28,13 @@ My research interests primarily revolve around the following core directions:
 * **Multi-Robot Swarm Decision-Making**: Utilizing Artificial Intelligence algorithms (Large Language Models & Deep Learning) to solve scheduling and decision-making challenges in multi-robot systems, with a focus on agricultural applications.
 * **Derivative-free & Multi-objective Optimization**: Beyond my primary robotics research, I aim to create a more efficient paradigm for derivative-free/gradient-free optimization, applicable to a specific class of multi-objective problems. (My focus: problems that are intuitive for humans but challenging for AI agents, such as plotting multiple collision-free paths on a global feature map).
 
----
-
 ## Collaboration and Contact
 
 I highly welcome academic exchanges and collaborations in the Robotics.
 
 **Email:** qilin516@outlook.com & qilin.li@zju.edu.cn
-**Office:** Agricultural, Life and Environmental Science Building D543, Zijingang Campus, Zhejiang University; ZJU-Hangzhou Global Scientific and Technologies Innovation Center A09-31
 
----
+**Office:** Agricultural, Life and Environmental Science Building D543, Zijingang Campus, Zhejiang University; ZJU-Hangzhou Global Scientific and Technologies Innovation Center A09-31
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News
 

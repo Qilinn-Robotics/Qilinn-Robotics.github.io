@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/2025-IROSW-conference
 date: 2025-09-01
-venue: 'IROS Workshop 2025'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
+venue: 'IROS 2025 Workshop'
+# slidesurl: ''
+# paperurl: ''
+# bibtexurl: ''
+# citation: ''
 
 ---
 **This paper will be uploaded to arXiv soon.**
