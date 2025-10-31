@@ -3,8 +3,8 @@ title: "Towards Agile Turning: A Height-Aware Trajectory Planner for Autonomous 
 collection: publications
 category: conferences
 permalink: /publication/2025-IROSW-conference
-date: 2025-9
-venue: 'IROS Workshop 2025 '
+date: 2025-09-01
+venue: 'IROS Workshop 2025'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''

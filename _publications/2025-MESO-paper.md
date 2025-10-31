@@ -3,7 +3,7 @@ title: "MESO: a multi-strategy enhanced snake optimizer applied to autonomous ve
 collection: publications
 category: manuscripts
 permalink: /publication/2025-MESO-paper
-date: 2025-8
+date: 2025-08-01
 venue: 'Cluster Computing'
 paperurl: 'https://link.springer.com/10.1007/s10586-025-05273-5'
 citation: 'https://scholar.googleusercontent.com/scholar.bib?q=info:GQ46V1R2M9IJ:scholar.google.com/&output=citation&scisdr=ChWFVgqSEIPs4cKWf-U:ABGrvjIAAAAAaQSQZ-XLif0ZrZDvq69qJLpAbQc&scisig=ABGrvjIAAAAAaQSQZ0PeXnYF1bSzydXpIUL6LQU&scisf=4&ct=citation&cd=-1&hl=zh-CN'
