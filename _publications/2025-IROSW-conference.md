@@ -16,4 +16,4 @@ excerpt: 'This paper will be uploaded to arXiv soon'
 
 EAST-Planner+ improves headland turning for autonomous agricultural vehicles with overhanging implements by using a dual-layer, height-aware map for component-specific collision checking. By distinguishing chassis and implement heights, it avoids unnecessary detours from 2-D planners and produces more efficient, higher-success trajectories. Validated in narrow-headland simulations.
 
-<img src='./assets/graphic abstract.png'>
+<img src="/_publications/assets/graphic%20abstract.png" alt="Graphic abstract">
