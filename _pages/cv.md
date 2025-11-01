@@ -51,6 +51,10 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
+Patent
+======
+* Qihua Ma, Qilin Li. "A Spatio-Temporal Joint Motion Planning Method for Autonomous Driving Based on a Hierarchical Optimization Strategy(一种基于分层优化策略的自动驾驶时空联合运动规划方法)", Chinese patent, Application No. 2024113715909 (Substantive examination).
+
 Service
 ======
 * Reviewer for Journals:

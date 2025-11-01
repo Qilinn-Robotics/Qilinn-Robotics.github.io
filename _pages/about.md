@@ -10,8 +10,11 @@ redirect_from:
 # Personal Profile
 
 **Name:** Qilin Li (李奇霖)
+
 **Current Position:** Fourth-Year Ph.D. Candidate (Expected Graduation 2029)
+
 **Affiliation/Lab:** Zhejiang University (Intelligent BioIndustrial Equipment Innovation Team - IBE).
+
 **Supervisors:** Prof. [Yibin Ying](https://person.zju.edu.cn/0089059) & Dr. [Chen Peng](https://caseypen.github.io/) (Co-advisor)
 
 ## Introduction
@@ -25,7 +28,9 @@ I am currently pursuing a Ph.D. in Engineering at Zhejiang University, dedicated
 My research interests primarily revolve around the following core directions:
 
 * **Motion Planning for Mobile Robots**: Addressing nonholonomic constraints in robots using optimization-based, reinforcement learning, or end-to-end methods to improve motion planning effectiveness in confined spaces.
-* **Multi-Robot Swarm Decision-Making**: Utilizing Artificial Intelligence algorithms (Large Language Models & Deep Learning) to solve scheduling and decision-making challenges in multi-robot systems, with a focus on agricultural applications.
+
+* **Multi-Robot Swarm Decision-Making**: Utilizing Artificial Intelligence algorithms to solve scheduling and decision-making challenges in multi-robot systems, with a focus on agricultural applications.
+
 * **Derivative-free & Multi-objective Optimization**: Beyond my primary robotics research, I aim to create a more efficient paradigm for derivative-free/gradient-free optimization, applicable to a specific class of multi-objective problems. (My focus: problems that are intuitive for humans but challenging for AI agents, such as plotting multiple collision-free paths on a global feature map).
 
 ## Collaboration and Contact
