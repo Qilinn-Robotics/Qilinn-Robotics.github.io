@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "Qilin Li (李奇霖)"
+title: "Qilin Li (李奇霖) Personal Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Personal Profile
-
-**Name:** Qilin Li (李奇霖)
 
 **Current Position:** Fourth-Year Ph.D. Candidate (Expected Graduation 2029)
 
