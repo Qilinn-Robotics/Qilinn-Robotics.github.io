@@ -59,3 +59,6 @@ Service
 ======
 * Reviewer for Journals:
   * (2024-now): [Industrial Robot (IR)](https://www.emeraldgrouppublishing.com/journal/ir)
+  * (2026-now): [Journal of King Saud University-Computer and Information Sciences](https://link.springer.com/journal/44443)
+  * (2026-now): [International Journal of Computational Intelligence Systems](https://www.springer.com/journal/44196)
+  * (2026-now): [Scientific Reports](https://www.nature.com/srep)
