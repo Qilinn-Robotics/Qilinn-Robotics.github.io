@@ -6,6 +6,7 @@ permalink: /publication/2024-lidar-paper
 date: 2024-10-10
 venue: 'Industrial Robot'
 paperurl: 'https://www.emerald.com/ir/article-abstract/51/4/632/1216891/LIDAR-based-SLAM-system-for-autonomous-vehicles-in?redirectedFrom=fulltext'
+authors: 'Qihua Ma, **Qilin Li**, Wenchao Wang, Meng Zhu'
 # excerpt: ''
 ---
 Purpose – This study aims to achieve superior localization and mapping performance in point cloud degradation scenarios through the effective removal of dynamic obstacles. With the continuous development of various technologies for autonomous vehicles, the LIDAR-based Simultaneous localization and mapping (SLAM) system is becoming increasingly important. However, in SLAM systems, effectively addressing the challenges of point cloud degradation scenarios is essential for accurate localization and mapping, with dynamic obstacle removal being a key component. 
