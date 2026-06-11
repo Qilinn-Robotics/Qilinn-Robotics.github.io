@@ -18,3 +18,7 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Local gem cache (regenerable) and Claude tooling config
+.gem/
+.claude/

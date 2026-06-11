@@ -1,50 +1,26 @@
 ---
 permalink: /
-title: "Qilin Li (李奇霖) Personal Profile"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-**Current Position:** Fourth-Year Ph.D. Student (Expected Graduation 2029)
+I am a Ph.D. student in Engineering at **Zhejiang University** (Intelligent BioIndustrial Equipment Innovation Team, [IBE](https://ibe.zju.edu.cn/main.htm)), expecting to graduate in 2029. I am advised by Prof. [Yibin Ying](https://person.zju.edu.cn/0089059) and Dr. [Chen Peng](https://caseypen.github.io/).
 
-**Affiliation/Lab:** Zhejiang University (Intelligent BioIndustrial Equipment Innovation Team - IBE).
+My research focuses on **robot navigation** and **manipulation**, with a particular focus on agricultural scenarios.
 
-**Supervisors:** Prof. [Yibin Ying](https://person.zju.edu.cn/0089059) & Dr. [Chen Peng](https://caseypen.github.io/) (Co-advisor)
+## Recent News
 
-## Introduction
-
-I am a researcher specializing in **robot navigation** and **Artificial Intelligence (AI)** technologies. My work aims to enhance the scheduling, decision-making, and autonomous navigation capabilities of robots.
-
-I am currently pursuing a Ph.D. in Engineering at Zhejiang University, dedicated to developing general-purpose robotics technology and applying it, particularly, to agricultural scenarios.
+{% include news-list.html %}
 
 ## Research Interests
 
-My research interests primarily revolve around the following core directions:
+* **Motion Planning for Mobile Robots** — handling nonholonomic constraints via optimization-based, reinforcement-learning, and end-to-end methods for confined spaces.
 
-* **Motion Planning for Mobile Robots**: Addressing nonholonomic constraints in robots using optimization-based, reinforcement learning, or end-to-end methods to improve motion planning effectiveness in confined spaces.
+* **Multi-Robot Swarm Decision-Making** — AI algorithms for scheduling and decision-making in multi-robot systems, focused on agricultural applications.
 
-* **Multi-Robot Swarm Decision-Making**: Utilizing Artificial Intelligence algorithms to solve scheduling and decision-making challenges in multi-robot systems, with a focus on agricultural applications.
+* **Derivative-free & Multi-objective Optimization** — a more efficient paradigm for gradient-free optimization on a class of multi-objective problems.
 
-* **Derivative-free & Multi-objective Optimization**: Beyond my primary robotics research, I aim to create a more efficient paradigm for derivative-free/gradient-free optimization, applicable to a specific class of multi-objective problems.
-
-## Collaboration and Contact
-
-I highly welcome academic exchanges and collaborations in the Robotics.
-
-**Email:** qilin516@outlook.com & qilin.li@zju.edu.cn
-
-**Office:** Agricultural, Life and Environmental Science Building D543, Zijingang Campus, Zhejiang University; ZJU-Hangzhou Global Scientific and Technologies Innovation Center A09-31
-
-## <i class="fa fa-fw fa-rss "></i> Recent News
-
-<ul style="width: auto; height: 300px; overflow: auto">
-
-  <li> <b>[Apr, 2026]</b>. Our paper <a href="/publication/2024-apf-imoso-paper">Dynamic path planning for mobile robots based on artificial potential field enhanced improved multiobjective snake optimization (APF-IMOSO)</a> was recognized as a <b>Top 10 most-cited paper in JFR 2024</b>. </li>
-
-  <li> <b> [Oct, 2025] </b>. Our short paper was recently accepted and selected for an oralposter presentation! Presented at the IROS 2025 Workshop in Hangzhou <a href="https://hahaheihei09.github.io/IROS_AgriRobotics/program/"> IROS Workshop On Agricultural Robotics</a>. </li>
-
-  <li> <b>[Aug, 2025]</b>. I helped release the open-source code for <b>EAST planner</b> — an efficient and safe headland-turn trajectory planner. <a href="https://agroboticsresearch.github.io/east_planner/">Project page & demo</a>. </li>
-
-</ul>
+I welcome academic exchanges and collaborations in robotics — my contact links are in the sidebar.

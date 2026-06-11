@@ -51,8 +51,21 @@
 .page__content {
 
   h2 {
+    position: relative;
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
+
+    /* short golden accent overlaying the border (site-wide cohesion with publications) */
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -1px;
+      width: 48px;
+      height: 2px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #d4a017 0%, #e6d6a8 100%);
+    }
   }
 
   p, li, dl {

@@ -1,0 +1,33 @@
+{% include base_path %}
+
+<article class="project-card" itemscope itemtype="http://schema.org/CreativeWork">
+  {% if post.header.teaser %}
+    <a class="project-card__media" href="{{ base_path }}{{ post.url }}">
+      <img src=
+        {% if post.header.teaser contains "://" %}
+          "{{ post.header.teaser }}"
+        {% else %}
+          "{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{{ post.title | strip_html }}">
+    </a>
+  {% endif %}
+
+  <div class="project-card__body">
+    <h2 class="project-card__title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+
+    {% if post.excerpt %}
+      <p class="project-card__excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+
+    {% if post.tech %}
+      <ul class="project-card__tags">
+        {% for item in post.tech %}
+          <li class="project-card__tag">{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</article>

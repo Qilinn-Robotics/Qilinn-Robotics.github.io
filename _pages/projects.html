@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /portfolio/
+---
+
+{% include base_path %}
+
+<div class="project-list">
+{% for post in site.projects %}
+  {% include project-card.html %}
+{% endfor %}
+</div>

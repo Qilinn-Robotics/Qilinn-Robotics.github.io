@@ -1,0 +1,11 @@
+# Recent news shown on the homepage. Newest first.
+# Each entry: date (short label) + text (Markdown allowed).
+
+- date: "Apr 2026"
+  text: "Our paper [Dynamic path planning for mobile robots based on artificial potential field enhanced improved multiobjective snake optimization (APF-IMOSO)](/publication/2024-apf-imoso-paper) was recognized as a **Top 10 most-cited paper in JFR 2024**."
+
+- date: "Oct 2025"
+  text: "Our short paper was accepted and selected for an oral-poster presentation at the [IROS 2025 Workshop on Agricultural Robotics](https://hahaheihei09.github.io/IROS_AgriRobotics/program/) in Hangzhou."
+
+- date: "Aug 2025"
+  text: "I helped release the open-source code for **EAST planner** — an efficient and safe headland-turn trajectory planner. [Project page & demo](https://agroboticsresearch.github.io/east_planner/)."

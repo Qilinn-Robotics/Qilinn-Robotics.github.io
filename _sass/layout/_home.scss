@@ -1,0 +1,55 @@
+/* ==========================================================================
+   HOME - recent news timeline
+   ========================================================================== */
+
+.news-list {
+  position: relative;
+  margin: 0.5em 0 1.5em;
+  padding-left: 1.1em;
+  list-style: none;
+
+  /* golden timeline rail (echoes .publication-year accent) */
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.4em;
+    bottom: 0.4em;
+    width: 2px;
+    border-radius: 999px;
+    background: linear-gradient(180deg, #d4a017 0%, #e6d6a8 100%);
+  }
+}
+
+.news-list__item {
+  position: relative;
+  margin-bottom: 0.7em;
+  padding-left: 0.4em;
+  line-height: 1.5;
+
+  /* dot on the rail */
+  &::before {
+    content: "";
+    position: absolute;
+    left: -1.1em;
+    top: 0.45em;
+    width: 7px;
+    height: 7px;
+    margin-left: -2.5px;
+    border-radius: 50%;
+    background: #d4a017;
+  }
+}
+
+.news-list__date {
+  display: inline-block;
+  margin-right: 0.5em;
+  font-family: $sans-serif-narrow;
+  font-weight: 700;
+  color: #8a6400;
+  white-space: nowrap;
+}
+
+.news-list__text {
+  font-size: 0.95em;
+}

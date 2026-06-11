@@ -19,8 +19,8 @@
     content: "";
     position: absolute;
     bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
+    height: 2px;
+    background: linear-gradient(90deg, #d4a017 0%, #e6d6a8 60%, var(--global-border-color) 100%);
     width: 100%;
   }
 
