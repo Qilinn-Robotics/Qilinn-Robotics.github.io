@@ -1,5 +1,6 @@
 ---
 title: "CARLA–ROS 2 Hardware-in-the-Loop (HIL) Test Platform"
+date: 2025-01-01
 excerpt: "A closed-loop HIL testbed pairing a CARLA simulator with a ROS 2 motion-planning stack and a by-wire chassis over CAN bus."
 collection: projects
 header:

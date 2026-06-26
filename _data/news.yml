@@ -1,6 +1,9 @@
 # Recent news shown on the homepage. Newest first.
 # Each entry: date (short label) + text (Markdown allowed).
 
+- date: "Jun 2026"
+  text: "Contributed source code and simulation experiments to **EXACT-MPPI**, a signed-distance MPPI navigation method for arbitrary-footprint robots. [Project](https://agroboticsresearch.github.io/exact-mppi/) · [Code](https://github.com/caseypen/EXACT-mppi) · [Video](https://www.youtube.com/watch?v=v-dXgXg426g)."
+
 - date: "Apr 2026"
   text: "Our paper [Dynamic path planning for mobile robots based on artificial potential field enhanced improved multiobjective snake optimization (APF-IMOSO)](/publication/2024-apf-imoso-paper) was recognized as a **Top 10 most-cited paper in JFR 2024**."
 

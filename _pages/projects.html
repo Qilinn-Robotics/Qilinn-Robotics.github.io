@@ -9,8 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+{% assign projects_by_year = site.projects | sort: "date" | reverse | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year_group in projects_by_year %}
+<h2 class="publication-year">{{ year_group.name }}</h2>
+<hr />
 <div class="project-list">
-{% for post in site.projects %}
+{% for post in year_group.items %}
   {% include project-card.html %}
 {% endfor %}
 </div>
+{% endfor %}
